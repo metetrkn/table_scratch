@@ -10,7 +10,7 @@ Before running the script, make sure to install the required libraries:
 pip install beautifulsoup4
 pip install html5lib
 
-**# Usage**
+## Usage
 1. Import the necessary libraries:
 ```python3
 from bs4 import BeautifulSoup as BS4
