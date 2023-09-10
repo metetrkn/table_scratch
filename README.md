@@ -7,8 +7,8 @@ This Python script is designed to scrape data from a specific URL and extract in
 Before running the script, make sure to install the required libraries:
 
 ```bash
-pip install beautifulsoup4
-pip install html5lib
+!pip install beautifulsoup4
+!pip install html5lib
 ```
 
 ## Usage
